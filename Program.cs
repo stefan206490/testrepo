@@ -32,6 +32,10 @@ namespace testrepo
                 Console.WriteLine("nummer: {0}", Convert.ToString(i + 1));
             }
             Console.ReadLine();
+            do
+            {
+                Console.WriteLine("LOL");
+            } while (true);
         }
     }
 }

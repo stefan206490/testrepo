@@ -13,6 +13,9 @@ namespace testrepo
             //onze repository test
             Console.WriteLine("Laten we beginnen!!!");
             //verandering door stefan
+
+            Console.WriteLine("Test hallo! David hier.");
+            Console.ReadLine();
         }
     }
 }

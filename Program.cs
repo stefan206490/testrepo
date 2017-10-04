@@ -23,6 +23,12 @@ namespace testrepo
 
             Console.WriteLine("lorem ipsum");
             Console.ReadLine();
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("nummer: {0}", Convert.ToString(i + 1));
+            }
+            Console.ReadLine();
         }
     }
 }

@@ -23,6 +23,8 @@ namespace testrepo
             Console.WriteLine("Mark");
 >>>>>>> 90dd38b7028df01bdf893eaabff82b2ce09783c2
             Console.WriteLine("Try");
+
+            Console.WriteLine("lorem ipsum");
         }
     }
 }

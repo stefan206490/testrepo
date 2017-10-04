@@ -22,6 +22,7 @@ namespace testrepo
             Console.WriteLine("Try");
 
             Console.WriteLine("lorem ipsum");
+            Console.ReadLine();
         }
     }
 }
